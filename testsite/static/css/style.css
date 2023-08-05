@@ -1,0 +1,11 @@
+body{
+    background-color: #ffc0cb;
+}
+
+.list-group{
+    width:150px;
+}
+
+.errorlist{
+    color:red;
+}
